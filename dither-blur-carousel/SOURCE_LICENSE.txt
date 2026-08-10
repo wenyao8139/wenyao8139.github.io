@@ -1,0 +1,7 @@
+Dither Blur carousel code
+Copyright (c) 2026 Yousuf Soomro
+Licensed under the MIT License.
+
+This deployment preserves the original code license. The original repository's
+unlicensed Behance placeholder images are not included; the twelve abstract SVG
+studies in this deployment were created specifically for this public build.
